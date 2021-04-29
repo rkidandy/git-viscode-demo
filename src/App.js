@@ -7,6 +7,7 @@ function App() {
     <div className="container">
       <Header />
       <p>Some paragraph</p>
+      <p>Some paragraph</p>
     </div>
   );
 }
